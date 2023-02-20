@@ -1,0 +1,43 @@
+name: mineria
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0-218.0.dev <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^0.13.5
+  image_picker: ^0.8.6+1
+  image: ^3.0.2
+
+
+  cupertino_icons: ^1.0.2
+  mask_text_input_formatter: ^2.4.0
+  camera: ^0.10.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/cargando.gif
+    - images/mineria_logo_doctor.jpg
+    - images/sintomas.webp
+    - images/aplicacion.jpg
+    - images/enfermedades.jpg
+    - images/enfermedades_2.jpg
+
