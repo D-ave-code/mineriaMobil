@@ -1,4 +1,4 @@
-name: mineria
+name: ExamKids
 description: A new Flutter project.
 
 publish_to: 'none' 
@@ -40,4 +40,6 @@ flutter:
     - images/aplicacion.jpg
     - images/enfermedades.jpg
     - images/enfermedades_2.jpg
+    - images/paciencia.gif
+    - images/esperando.webp
 
